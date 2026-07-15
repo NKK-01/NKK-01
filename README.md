@@ -1,3 +1,4 @@
+<img src="./banner.png" width="800" alt="Banner" />
 <img align="right" height="170" alt="Cyber Security Banner" src="https://img.shields.io/badge/CYBER-SECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF9C">
 
 # 👋 Hi, I'm N Kranthi Kumar
